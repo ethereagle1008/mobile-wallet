@@ -12,12 +12,5 @@ For this project I used:
 - [React Native](https://reactnative.dev/)
 - [Moralis](https://moralis.io/) for authentication and database
 
-## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my [portfolio](https://tijan.dev).
-
-You can get in touch with me through my [website](https://tijan.dev) or contact me on [twitter](https://twitter.com/0xTijan).
-
-Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
