@@ -5,8 +5,6 @@ Please leave a ⭐ if you like it.
 
 ![App Preview](./app-preview.png)
 
-If you find any **errors** ⛔, please report them to [errors@tijan.dev](mailto:errors@tijan.dev) thanks 🙏.
-
 ## Technologies
 For this project I used:
 - [React Native](https://reactnative.dev/)
